@@ -14,16 +14,6 @@ Loads (Integration)   Load planning and execution                               
 Blob Storage          Unstructured data storage and retrieval (File, Images etc)    `Read More <http://secure.trackmatic.co.za/documentation/blob-storage.html>`_ 
 Web Hooks             Webhook subscriptions and management tools                    `Read More <http://secure.trackmatic.co.za/documentation/webhooks.html>`_ 
 ====================  ============================================================  ====================
-.. code-block:: C#
-
- {
-  "name": "string",
-  "uri": "string",
-  "is_active": true,
-  "events": [
-    "string"
-  ]
- }
 
 **************
 **Trackmatic**
