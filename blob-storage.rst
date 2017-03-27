@@ -15,7 +15,7 @@ To store a file you need to perform an HTTP post with the Content-Type header se
 - The Content-Type of the file must be provided and must be part of the supported content types listed below.
 - An organisation id which your token grants access to must be provided in the url
   
-    .. code-block:: C#
+.. code-block:: C#
 
  POST /{organiastionId}/sessions
 
