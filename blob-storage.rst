@@ -14,6 +14,15 @@ To store a file you need to perform an HTTP post with the Content-Type header se
 - A uniuque id must be provided in the url. If a file already exists with the supplied if an error will be thrown.
 - The Content-Type of the file must be provided and must be part of the supported content types listed below.
 - An organisation id which your token grants access to must be provided in the url
+  
+    .. code-block:: C#
+
+ POST /{organiastionId}/sessions
+
+ {
+    "asset_id": "",
+    "device_id": ""
+ }
 
 Supported Content types
 ------------------------
@@ -36,15 +45,6 @@ Supported Content types
   "video/webm",
   "video/ogg"
 
-
-  .. code-block:: C#
-
- POST /{organiastionId}/sessions
-
- {
-    "asset_id": "",
-    "device_id": ""
- }
   
 
 Retrieving a file
