@@ -18,3 +18,9 @@ Web Hooks             Webhook subscriptions and management tools                
 **************
 **Trackmatic**
 **************
+
+.. toctree::
+   :maxdepth: 2
+
+   install
+   support
