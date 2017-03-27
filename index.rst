@@ -26,4 +26,3 @@ Web Hooks             Webhook subscriptions and management tools                
    index
    blob-storage
    web-hooks
-   README
