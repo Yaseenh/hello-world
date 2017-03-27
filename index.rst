@@ -18,7 +18,7 @@ Web Hooks             Webhook subscriptions and management tools                
 
 Supported Content types
 ------------------------
-.. code-block::
+.. code-block:: c#
 
   "application/xml",
   "application/pdf",
