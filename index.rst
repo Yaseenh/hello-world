@@ -22,5 +22,5 @@ Web Hooks             Webhook subscriptions and management tools                
 .. toctree::
    :maxdepth: 2
 
-   install
-   support
+   README
+   webhooks
