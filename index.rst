@@ -24,10 +24,10 @@ Web Hooks             Webhook subscriptions and management tools                
    :caption: Table of Contents
    :name: mastertoc
    :hidden:
+   :numbered:
 
    active-load
    blob-storage
-   cheatSheet
    import
    payloads
    session-management
