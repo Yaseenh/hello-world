@@ -25,4 +25,5 @@ Web Hooks             Webhook subscriptions and management tools                
    :name: mastertoc
    :hidden:
 
+   index
    blob-storage
