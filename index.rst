@@ -19,6 +19,24 @@ Web Hooks             Webhook subscriptions and management tools                
 **Trackmatic**
 **************
 
+.. code-block:: c
+
+  "application/xml",
+  "application/pdf",
+  "image/gif",
+  "image/png",
+  "image/jpeg",
+  "image/bmp",
+  "image/webp",
+  "text/plain",
+  "audio/midi",
+  "audio/mpeg",
+  "audio/webm",
+  "audio/ogg",
+  "audio/wav",
+  "video/webm",
+  "video/ogg"
+
 
 .. toctree::
    :caption: Table of Contents
