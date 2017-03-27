@@ -20,6 +20,5 @@ Web Hooks             Webhook subscriptions and management tools                
 **************
 
 .. toctree::
-   :maxdepth: 6
 
    blob-storage
