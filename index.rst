@@ -23,5 +23,4 @@ Web Hooks             Webhook subscriptions and management tools                
    :caption: Table of Contents
    :name: mastertoc
 
-   index
    blob-storage
