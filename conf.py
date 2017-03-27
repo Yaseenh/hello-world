@@ -44,6 +44,8 @@ source_suffix = '.rst'
 
 # The master toctree document.
 master_doc = 'index'
+.. toctree::
+   :numbered:
 
 
 # General information about the project.
