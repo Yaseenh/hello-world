@@ -26,9 +26,9 @@ Web Hooks             Webhook subscriptions and management tools                
    :hidden:
    :numbered:
 
-   active-load
-   blob-storage
-   import
-   session-management
-   payloads
+   loads/drivers/loads/active-load
+   blob-storage/blob-storage
+   loads/integration/import
+   loads/drivers/sessions/session-management
+   loads/web-hooks/payloads
    webhooks/web-hooks

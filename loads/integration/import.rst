@@ -29,7 +29,7 @@ The various components are linked together by their respective references within
 
 This process helps with deduplicating data within the payload. For example, when uploading a consignment with an associated entity, shipping address and geofence the payload would appear as follows:
 
-.. code-block::
+.. code-block:: C#
 
   "geofences": [
     {
