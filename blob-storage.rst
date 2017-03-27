@@ -35,6 +35,16 @@ Supported Content types
   "audio/wav",
   "video/webm",
   "video/ogg"
+
+
+  .. code-block:: C#
+
+ POST /{organiastionId}/sessions
+
+ {
+    "asset_id": "",
+    "device_id": ""
+ }
   
 
 Retrieving a file
