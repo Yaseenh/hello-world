@@ -31,4 +31,4 @@ Web Hooks             Webhook subscriptions and management tools                
    import
    session-management
    payloads
-   web-hooks
+   webhooks/web-hooks
