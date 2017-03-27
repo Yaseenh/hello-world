@@ -15,6 +15,28 @@ Blob Storage          Unstructured data storage and retrieval (File, Images etc)
 Web Hooks             Webhook subscriptions and management tools                    `Read More <http://secure.trackmatic.co.za/documentation/webhooks.html>`_ 
 ====================  ============================================================  ====================
 
+
+Supported Content types
+------------------------
+.. code-block::
+
+  "application/xml",
+  "application/pdf",
+  "image/gif",
+  "image/png",
+  "image/jpeg",
+  "image/bmp",
+  "image/webp",
+  "text/plain",
+  "audio/midi",
+  "audio/mpeg",
+  "audio/webm",
+  "audio/ogg",
+  "audio/wav",
+  "video/webm",
+  "video/ogg"
+  
+
 **************
 **Trackmatic**
 **************
